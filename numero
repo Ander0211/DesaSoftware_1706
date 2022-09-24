@@ -1,0 +1,2 @@
+n=input("digite un numero:")
+print("el numero es:",n)
